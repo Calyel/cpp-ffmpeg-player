@@ -1,0 +1,32 @@
+# Diretórios de compilação e binários
+build/
+bin/
+out/
+cmake-build-*/
+output/
+
+# Arquivos objeto e executáveis
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Ambientes e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+compile_commands.json
+CTestTestfile.cmake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
